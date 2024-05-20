@@ -1,16 +1,16 @@
-### Hi there 👋
+### Seja bem vindo ao meu perfil 👋💙
 
-<!--
-**daniGR1502/daniGR1502** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Daniele Gama
 
-Here are some ideas to get you started:
+- Sou professora de Química e tecnologia e roótica em uma escola pública
+- Estou estudando na [Alura](www.alura.com.br)
+- Estou me desenvolvendo na linguagem javaScript
+- Utilizo esse espaço para a organização e compartilhamento dos meus projetos densenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### VocÊ pode entrar em contato comigo 📧
+
+daniele.g.rodrigues@gmail.com
+
+@danielegamarodrigues
+
+![ro](https://media1.tenor.com/m/ebTWNO6KmNYAAAAC/picapau-puchapenas.gif)

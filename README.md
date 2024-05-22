@@ -2,7 +2,7 @@
 
 Meu nome é Daniele Gama
 
-- Sou professora de Química e tecnologia e roótica em uma escola pública
+- Sou professora de Química e tecnologia e robótica em uma escola pública
 - Estou estudando na [Alura](www.alura.com.br)
 - Estou me desenvolvendo na linguagem javaScript
 - Utilizo esse espaço para a organização e compartilhamento dos meus projetos densenvolvidos
